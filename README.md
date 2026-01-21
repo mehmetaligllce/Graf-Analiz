@@ -1,2 +1,4 @@
 # Graf Analiz
-C# ile makaleleri graf düğümlerine ekleyip analiz yapma uygulaması
+
+C# ile makaleleri graf düğümlerine ekleyip analiz yapma projesi
+

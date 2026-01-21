@@ -1,0 +1,33 @@
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\bin\Debug\Graf Proje.exe.config
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\bin\Debug\Graf Proje.exe
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\bin\Debug\Graf Proje.pdb
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\obj\Debug\Graf Proje.csproj.AssemblyReference.cache
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\obj\Debug\Graf_Proje.Form1.resources
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\obj\Debug\Graf_Proje.Properties.Resources.resources
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\obj\Debug\Graf Proje.csproj.GenerateResource.cache
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\obj\Debug\Graf Proje.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\obj\Debug\Graf Proje.exe
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\obj\Debug\Graf Proje.pdb
+C:\Users\mehme\Documents\DERS\Programlama Laboratuvari - I\2025-2026\3. Proje\Graf Proje\Graf Proje\obj\Debug\Graf Proje.exe.config
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\bin\Debug\Graf Proje.exe.config
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\bin\Debug\Graf Proje.exe
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\bin\Debug\Graf Proje.pdb
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\obj\Debug\Graf Proje.csproj.AssemblyReference.cache
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\obj\Debug\Graf Proje.exe.config
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\obj\Debug\Graf_Proje.Form1.resources
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\obj\Debug\Graf_Proje.Properties.Resources.resources
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\obj\Debug\Graf Proje.csproj.GenerateResource.cache
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\obj\Debug\Graf Proje.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\obj\Debug\Graf Proje.exe
+C:\Users\mehme\Documents\3.PROJE\Graf Proje\Graf Proje\obj\Debug\Graf Proje.pdb
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\bin\Debug\Graf Proje.exe.config
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\bin\Debug\Graf Proje.exe
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\bin\Debug\Graf Proje.pdb
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\obj\Debug\Graf Proje.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\obj\Debug\Graf Proje.exe.config
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\obj\Debug\Graf_Proje.Form1.resources
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\obj\Debug\Graf_Proje.Properties.Resources.resources
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\obj\Debug\Graf Proje.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\obj\Debug\Graf Proje.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\obj\Debug\Graf Proje.exe
+C:\Users\mehme\Desktop\Teslim\Graf Proje\Graf Proje\obj\Debug\Graf Proje.pdb
